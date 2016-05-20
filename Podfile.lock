@@ -1,0 +1,39 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GRKContainerViewController (1.2)
+  - SWRevealViewController (2.3.0)
+  - UISidebarViewController (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.4)
+  - GRKContainerViewController (~> 1.0)
+  - SWRevealViewController (~> 2.3)
+  - UISidebarViewController (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  GRKContainerViewController: 08207bdc42b03fcc0a6f3d564cbf1c843736b22a
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+  UISidebarViewController: afa8867a2201b95d49ffbb12652bb1d7a30d9683
+
+COCOAPODS: 0.39.0
